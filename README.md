@@ -1,2 +1,2 @@
-# primeiros-programas
- Desenvolvidos com o curso de Lógica de Programação I da Alura
+# Primeiros Programas
+ Desenvolvidos durante o curso de Lógica de Programação I da Alura
